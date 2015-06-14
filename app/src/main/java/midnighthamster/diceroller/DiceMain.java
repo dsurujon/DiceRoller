@@ -31,7 +31,7 @@ public class DiceMain extends ActionBarActivity {
         mAdView.loadAd(adRequest);
 
         NumberPicker np=(NumberPicker) findViewById(R.id.numberPicker);
-        np.setMaxValue(5);
+        np.setMaxValue(10);
         np.setMinValue(1);
         TextView resultText = (TextView) findViewById(R.id.textView2);
         resultText.setText("");
