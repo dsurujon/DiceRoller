@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\classes-f3ba87267dd12b8042594eaa2fb12f3c1b8d357a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-467b0aaa02b7d6c5afd9586df1680ec900326bbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-db87439d6ca1be8f26fe26041fc3572d5b1204dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\classes-5146338b05a233d7c2be6d6e14a0c4ece0ad7883.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\classes-51faa69da0653372f11540fd09c812828052c60a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\classes-bf6fe0a84e9abdfc680f51fb075db81850b3a09f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Defne\AndroidStudioProjects\DiceRoller\app\build\intermediates\pre-dexed\debug\classes-e5e1afe5bc31a432f3cc9a3fd352ce69354c687e.jar" />
+    </item>
+
+</items>

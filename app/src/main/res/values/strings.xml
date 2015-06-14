@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dice Roller</string>
+    <string name="number_prompt">Pick the number of dice to roll:</string>
+    <string name="action_settings">Settings</string>
+    <string name="rollbutton_text">Roll!</string>string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
